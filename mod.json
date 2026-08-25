@@ -1,0 +1,18 @@
+{
+    "geode": "5.9.0",
+    "gd": {
+        "win": "2.2081",
+        "android": "2.2081",
+        "mac": "2.2081",
+        "ios": "2.2081"
+    },
+    "id": "proplat.shortcuts",
+    "name": "Shortcuts",
+    "version": "v1.0.0",
+    "developer": "ProPlat",
+    "description": "Turns The Map and Versus buttons into shortcuts.",
+    "dependencies": {
+        "dankmeme.globed2": ">=2.1.4",
+        "geode.node-ids": ">=1.23.3"
+    }
+}
